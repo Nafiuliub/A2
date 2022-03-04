@@ -18,20 +18,20 @@ h2, h4 {
   clear: both;
 }
 
-.beshi {
+.more {
   max-width: 1140px;
   padding: 60px 0;
   margin: auto;
   clear: both;
 }
 
-.majhari {
+.medium {
   max-width: 700px;
   padding: 60px 0;
   margin: auto;
   clear: both;
 }
-.choto {
+.small {
   max-width: 400px;
   padding: 60px 0;
   margin: auto;
